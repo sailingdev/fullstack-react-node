@@ -1,7 +1,7 @@
 # get started
 
 ```
-git clone https://github.com/mk48/fullstack-crud-react-node-postgresql.git
+git clone https://github.com/olaf1005/fullstack-react-node.git
 
 cd webclient
 yarn
